@@ -68,11 +68,13 @@
 
 ### 📊 GitHub Stats
 
-![Naing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naingkhantdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naingkhantdev&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naingkhantdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naingkhantdev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naingkhantdev&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naingkhantdev&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e6e&currStreakLabel=00d4ff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naingkhantdev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naingkhantdev&theme=tokyonight&utcOffset=6.5)
 
 ---
 
