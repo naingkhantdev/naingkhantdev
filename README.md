@@ -1,10 +1,12 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Naing+Khant+Dev+👋;Full+Stack+Developer;Mobile+App+Developer+(Flutter);Building+Cool+Stuff+at+AsiaBrightway;Always+Learning,+Always+Coding+🚀" alt="Typing SVG" />
-</div>
+# Hi there, I'm Naing Khant Dev 👋
+
+> 🚀 Full Stack Developer | Mobile & Web | AsiaBrightway
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&width=600&lines=Full+Stack+Developer+💻;Flutter+Mobile+Developer+📱;Always+Learning,+Always+Coding+🚀)
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pIojeM0I7NRZQ/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👨‍💻 About Me
 
